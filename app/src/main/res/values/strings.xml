@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Control Remoto de Iluminación</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Ingresar a la aplicación</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">Usuario no valido</string>
+    <string name="invalid_password">El password debe ser >5 caracteres</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main">Principal</string>
+    <string name="title_home">Iluminación Principal</string>
+    <string name="title_dashboard">Áreas</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_activity_areas">Áreas disponibles</string>
+    <string name="title_activity_notificaciones">Notificaciones</string>
+    <string name="title_activity_politica">Política de Privacidad</string>
+    <string name="title_activity_politica2">Politica de privacidad</string>
+</resources>
